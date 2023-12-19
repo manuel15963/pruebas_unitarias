@@ -1,0 +1,14 @@
+C:\Users\softw\OneDrive\Documents\Escritorio\microserviciosSoa\-as211-be-Entity-main\src\main\java\com\example\t07_entidadescoperantes\exception\BadRequestException.java
+C:\Users\softw\OneDrive\Documents\Escritorio\microserviciosSoa\-as211-be-Entity-main\src\main\java\com\example\t07_entidadescoperantes\exception\ResourceNotFoundException.java
+C:\Users\softw\OneDrive\Documents\Escritorio\microserviciosSoa\-as211-be-Entity-main\src\main\java\com\example\t07_entidadescoperantes\domain\model\Entidad.java
+C:\Users\softw\OneDrive\Documents\Escritorio\microserviciosSoa\-as211-be-Entity-main\src\main\java\com\example\t07_entidadescoperantes\domain\mapper\EntidadMapper.java
+C:\Users\softw\OneDrive\Documents\Escritorio\microserviciosSoa\-as211-be-Entity-main\src\main\java\com\example\t07_entidadescoperantes\service\EntidadService.java
+C:\Users\softw\OneDrive\Documents\Escritorio\microserviciosSoa\-as211-be-Entity-main\src\main\java\com\example\t07_entidadescoperantes\exception\ApiExceptionHandler.java
+C:\Users\softw\OneDrive\Documents\Escritorio\microserviciosSoa\-as211-be-Entity-main\src\main\java\com\example\t07_entidadescoperantes\domain\dto\EntidadRequestDTO.java
+C:\Users\softw\OneDrive\Documents\Escritorio\microserviciosSoa\-as211-be-Entity-main\src\main\java\com\example\t07_entidadescoperantes\repository\EntidadRepository.java
+C:\Users\softw\OneDrive\Documents\Escritorio\microserviciosSoa\-as211-be-Entity-main\src\main\java\com\example\t07_entidadescoperantes\config\WebClientCustomConfig.java
+C:\Users\softw\OneDrive\Documents\Escritorio\microserviciosSoa\-as211-be-Entity-main\src\main\java\com\example\t07_entidadescoperantes\service\impl\EntidadServiceImpl.java
+C:\Users\softw\OneDrive\Documents\Escritorio\microserviciosSoa\-as211-be-Entity-main\src\main\java\com\example\t07_entidadescoperantes\web\EntidadController.java
+C:\Users\softw\OneDrive\Documents\Escritorio\microserviciosSoa\-as211-be-Entity-main\src\main\java\com\example\t07_entidadescoperantes\exception\ErrorMessage.java
+C:\Users\softw\OneDrive\Documents\Escritorio\microserviciosSoa\-as211-be-Entity-main\src\main\java\com\example\t07_entidadescoperantes\T07EntidadesCoperantesApplication.java
+C:\Users\softw\OneDrive\Documents\Escritorio\microserviciosSoa\-as211-be-Entity-main\src\main\java\com\example\t07_entidadescoperantes\domain\dto\EntidadResponseDTO.java
